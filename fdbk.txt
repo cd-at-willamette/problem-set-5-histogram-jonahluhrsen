@@ -1,0 +1,3 @@
+It looks like magic_square only returns False?
+
+9/10
